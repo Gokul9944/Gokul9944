@@ -40,6 +40,9 @@
 ###
 
 <br clear="both">
-https://github-readme-activity-graph.vercel.app/graph?username=Gokul9944&theme=tokyo-night
+<div align="center">
+  <a href = "https://github-readme-activity-graph.vercel.app/graph?username=Gokul9944&theme=tokyo-night"></a>
+</div>
+
 
 ###
